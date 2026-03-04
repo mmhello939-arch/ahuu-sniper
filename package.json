@@ -1,0 +1,15 @@
+{
+  "name": "nutella-sniper",
+  "version": "2.0.0",
+  "description": "NUTELLA Discord Vanity URL Sniper — Gateway + Polling Hybrid",
+  "main": "sniper.js",
+  "scripts": {
+    "start": "node sniper.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
